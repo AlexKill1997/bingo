@@ -1,6 +1,6 @@
 import './scss/base.scss';
-import 'normalize.css';
 import './js/button.js'
+import './scss/normalize.scss'
 
 
 const picture = document.querySelector("#switch")
